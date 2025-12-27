@@ -31,7 +31,7 @@ GUI Library: CustomTkinter (Modern Tkinter wrapper)
 Data Handling: Pandas, NumPy, Pickle, CSV
 
 📸 Screenshots
-(Bhai, yahan apne UI ka ek badiya screenshot paste kar dena)
+(please use your own screenshots and file for that)
 
 🚀 Installation & Setup
 Clone the repository:
